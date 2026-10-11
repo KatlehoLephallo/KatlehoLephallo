@@ -5,9 +5,9 @@ I believe the best way to learn infrastructure is to build it, break it, trouble
 and rebuild it better. This profile is where I do that in public.
 
 ## 💻 What I do
-- Troubleshoot Linux systems, services, and infrastructure issues
+- Troubleshoot, patch Linux systems, services, and infrastructure issues
 - Write and maintain Ansible playbooks that automate Linux administration tasks
-- Support developers on Kubernetes and OpenShift: workloads, RBAC, networking, and resource quotas
+- Support developers on Kubernetes and OpenShift: workloads, RBAC, networking, upgrades and resource quotas
 - Document solutions so recurring issues get resolved faster
 
 ## 🌱 What I'm building
