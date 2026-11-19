@@ -1,4 +1,4 @@
-# Hi, I'm Katleho 👋
+# Hi, I'm Katleho Lephallo 👋
 
 **Support & Platform Engineer** working with Linux, Kubernetes, OpenShift, and Ansible.
 I believe the best way to learn infrastructure is to build it, break it, troubleshoot it,
